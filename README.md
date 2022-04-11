@@ -7,4 +7,5 @@ Usage: pdf2image.py \[-i|-o|-p] \[--dpi]<br>
 -p, --popplerbinpath: Poppler bin path (..\poppler-xx.xx.x\Library\bin)<br>
 --dpi: resolution (optional, default value: 100)
 
-> In command line arguments you have to reference Poppler bin path. Use the copy given in this projet, or download the latest version of Poppler for windows : https://github.com/oschwartz10612/poppler-windows and extract it
+> In command line arguments you have to reference Poppler bin path.<br>
+> Download the latest version of Poppler for windows : https://github.com/oschwartz10612/poppler-windows and extract it
