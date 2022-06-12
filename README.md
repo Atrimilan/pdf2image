@@ -18,4 +18,4 @@
 ---
 
 ### Example:
-`.\pdf2img.exe -i D:\Users\milan\Documents\PDFConverter\documents\test.pdf -o D:\Users\milan\Documents\PDFConverter\exports\out.png --popplerbinpath D:\Users\milan\Documents\PDFConverter\poppler-22.01.0\Library\bin --dpi 200`
+`.\pdf2img.exe -i .\docs\test.pdf -o .\exports\out.png --popplerbinpath .\poppler-22.01.0\Library\bin\ --dpi 200`
